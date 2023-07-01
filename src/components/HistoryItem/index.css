@@ -1,0 +1,35 @@
+.back {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  background-color: #f8fafc;
+  border-width: 0;
+}
+.back2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.back1 {
+  display: flex;
+}
+.para {
+  color: #64748b;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.para1 {
+  color: #475569;
+  font-weight: bold;
+}
+.image {
+  height: 2vh;
+  width: 1vw;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.para3 {
+  margin-top: 15px;
+  margin-left: 10px;
+}
